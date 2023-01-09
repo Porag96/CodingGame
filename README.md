@@ -1,1 +1,1 @@
-# CodingGame
+# Codingame
